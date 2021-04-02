@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+
+	background-color: green;
+}
+
+#cardTable {
+	margin-top: 80px;
+}
+
+#cardTable > img {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
